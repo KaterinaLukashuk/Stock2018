@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #8b0000;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.ChangeSuppl">
+    <children>
+        <AnchorPane layoutY="86.0" prefHeight="571.0" prefWidth="960.0" style="-fx-background-color: #fff8dc;">
+            <children>
+                <TableView fx:id="goodsTable" layoutX="10.0" layoutY="20.0" prefHeight="333.0" prefWidth="933.0">
+                    <columns>
+                        <TableColumn fx:id="id" prefWidth="75.0" text="Код заказа" />
+                        <TableColumn fx:id="cust" prefWidth="138.0" text="Заказчик" />
+                        <TableColumn fx:id="prod_id" prefWidth="92.0" text="Код продукта" />
+                        <TableColumn fx:id="amount" prefWidth="83.0" text="Количество" />
+                        <TableColumn fx:id="date" prefWidth="91.0" text="Дата доставки" />
+                        <TableColumn fx:id="phone" prefWidth="125.0" text="Контакт. тел." />
+                        <TableColumn fx:id="email" prefWidth="137.0" text="E-mail" />
+                    </columns>
+                </TableView>
+                <Button fx:id="back" layoutX="22.0" layoutY="529.0" mnemonicParsing="false" text="Назад&gt;&gt;">
+               <font>
+                  <Font size="14.0" />
+               </font></Button>
+                <CheckBox fx:id="chAmount" layoutX="218.0" layoutY="395.0" mnemonicParsing="false" text="Количество продукта">
+                    <font>
+                        <Font size="13.0" />
+                    </font>
+                </CheckBox>
+                <CheckBox fx:id="chDate" layoutX="218.0" layoutY="427.0" mnemonicParsing="false" text="Дата доставки">
+                    <font>
+                        <Font size="13.0" />
+                    </font>
+                </CheckBox>
+
+                <CheckBox fx:id="chPhone" layoutX="218.0" layoutY="470.0" mnemonicParsing="false" text="Контактный телефон">
+                    <font>
+                        <Font size="13.0" />
+                    </font>
+                </CheckBox>
+                <CheckBox fx:id="chEmail" layoutX="218.0" layoutY="505.0" mnemonicParsing="false" text="E-mail">
+                    <font>
+                        <Font size="13.0" />
+                    </font>
+                </CheckBox>
+                <TextField fx:id="amountField" layoutX="381.0" layoutY="392.0" prefHeight="25.0" prefWidth="212.0" />
+                <TextField fx:id="phoneField" layoutX="381.0" layoutY="467.0" prefHeight="25.0" prefWidth="212.0" />
+                <TextField fx:id="emailField" layoutX="381.0" layoutY="502.0" prefHeight="25.0" prefWidth="212.0" />
+                <Button fx:id="red" layoutX="825.0" layoutY="529.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="118.0" text="Редактировать" />
+                <Button fx:id="del" layoutX="825.0" layoutY="489.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="118.0" text="Удалить" />
+
+                <DatePicker fx:id="dateField" layoutX="381.0" layoutY="424.0" prefHeight="25.0" prefWidth="212.0" />
+            </children>
+        </AnchorPane>
+        <Label layoutX="422.0" layoutY="14.0" text="Заказы" textFill="WHITE">
+            <font>
+                <Font size="36.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

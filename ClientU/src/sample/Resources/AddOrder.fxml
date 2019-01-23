@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="691.0" prefWidth="824.0" style="-fx-background-color: #8b0000;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controllers.AddOrder">
+    <children>
+        <AnchorPane layoutY="105.0" prefHeight="586.0" prefWidth="824.0" style="-fx-background-color: #fff8dc;">
+            <children>
+                <TableView fx:id="Table2" layoutX="57.0" layoutY="193.0" prefHeight="126.0" prefWidth="703.0">
+                    <columns>
+                      <TableColumn fx:id="id2" prefWidth="75.0" text="Код товара" />
+                        <TableColumn fx:id="name2" prefWidth="159.0" text="Наименование" />
+                        <!--<TableColumn fx:id="type" prefWidth="98.0" text="Тип товара" />-->
+                        <TableColumn fx:id="prise2" prefWidth="111.0" text="Цена" />
+                        <TableColumn fx:id="brand2" prefWidth="155.0" text="Производитель" />
+                        <TableColumn fx:id="size2" minWidth="0.0" prefWidth="102.0" text="Размер" />
+                        <TableColumn fx:id="amount2" prefWidth="88.0" text="Количество" />
+                    </columns>
+                </TableView>
+                <Button fx:id="back" layoutX="57.0" layoutY="498.0" mnemonicParsing="false" text="Назад&gt;&gt;">
+               <font>
+                  <Font size="14.0" />
+               </font></Button>
+            <Button fx:id="add" layoutX="630.0" layoutY="498.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="130.0" text="Добавить товар">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <Button fx:id="end" layoutX="630.0" layoutY="540.0" mnemonicParsing="false" prefHeight="25.0" prefWidth="130.0" text="Завершить">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Button>
+            <TextField fx:id="amount" layoutX="481.0" layoutY="500.0" prefHeight="25.0" prefWidth="130.0" />
+            <Text layoutX="389.0" layoutY="518.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Количество:" wrappingWidth="78.1953125">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Text>
+            <TableView fx:id="Table1" layoutX="57.0" layoutY="40.0" prefHeight="103.0" prefWidth="703.0">
+               <columns>
+                  <TableColumn fx:id="id1" prefWidth="75.0" text="Код товара" />
+                  <TableColumn fx:id="name1" prefWidth="173.0" text="Наименование" />
+                  <TableColumn fx:id="prise1" prefWidth="54.0" text="Цена" />
+                  <TableColumn fx:id="brand1" prefWidth="146.0" text="Производитель" />
+                  <TableColumn fx:id="size1" prefWidth="93.0" text="Размер" />
+                  <TableColumn fx:id="heel" minWidth="0.0" prefWidth="76.0" text="Каблук" />
+                  <TableColumn fx:id="amount1" minWidth="5.0" prefWidth="87.0" text="Количество" />
+               </columns>
+            </TableView>
+            <TableView fx:id="Table3" layoutX="57.0" layoutY="359.0" prefHeight="126.0" prefWidth="703.0">
+               <columns>
+                  <TableColumn fx:id="id3" prefWidth="75.0" text="Код товара" />
+                  <TableColumn fx:id="name3" prefWidth="200.0" text="Наименование" />
+                  <TableColumn fx:id="prise3" prefWidth="94.0" text="Цена" />
+                  <TableColumn fx:id="brand3" prefWidth="234.0" text="Производитель" />
+                  <TableColumn fx:id="amount3" prefWidth="99.0" text="Количество" />
+               </columns>
+            </TableView>
+            <Label layoutX="57.0" layoutY="14.0" text="Обувь">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="55.0" layoutY="167.0" text="Одежда">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            <Label layoutX="61.0" layoutY="332.0" text="Аксессуары">
+               <font>
+                  <Font name="System Bold" size="18.0" />
+               </font>
+            </Label>
+            </children>
+        </AnchorPane>
+        <Label layoutX="175.0" layoutY="28.0" text="Добавьте товары в заказ" textFill="WHITE">
+            <font>
+                <Font size="36.0" />
+            </font>
+        </Label>
+    </children>
+</AnchorPane>

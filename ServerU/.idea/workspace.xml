@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ServerU:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da5bf9cc-a7ca-4051-8b36-c8ba4656f5ac" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ServerU$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1544531364463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1360059244">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="50" />
+          <entry key="project.open.time.10" value="4" />
+          <entry key="project.open.time.100" value="1" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.11" value="3" />
+          <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="4" />
+          <entry key="project.open.time.60" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.77" value="1" />
+          <entry key="project.open.time.78" value="2" />
+          <entry key="project.open.time.8" value="5" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.89" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.98" value="1" />
+          <entry key="project.opened" value="50" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="Goods" value="2" />
+          <entry key="JAVA/" value="1" />
+          <entry key="JAVA/Stock" value="2" />
+          <entry key="Orders" value="1" />
+          <entry key="costumer" value="1" />
+          <entry key="customers" value="16" />
+          <entry key="goods" value="26" />
+          <entry key="java" value="160" />
+          <entry key="orders" value="15" />
+          <entry key="out" value="3" />
+          <entry key="producttype" value="1" />
+          <entry key="sql" value="33" />
+          <entry key="suppliers" value="5" />
+          <entry key="supplies" value="3" />
+          <entry key="users" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Database Element" value="73" />
+          <entry key="JAVA" value="160" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="32" />
+          <entry key="UML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cell" value="880" />
+          <entry key="dummy" value="3" />
+          <entry key="java" value="12103" />
+          <entry key="sql" value="2109" />
+          <entry key="txt" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="12103" />
+          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="Scratch" value="2989" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MultiThreadServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Connection/MultiThreadServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonoThreadClientHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="93" column="27" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#912#913#0" expanded="true" />
+                <element signature="e#954#955#0" expanded="true" />
+                <marker date="1548236264783" expanded="true" signature="3349:4260" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Supplie.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3094">
+              <caret line="219" column="33" selection-start-line="219" selection-start-column="33" selection-end-line="219" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Stock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Creator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Creator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FootwearCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Goods/FootwearCreator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Footwear.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Accessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Accessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+              <folding>
+                <element signature="method#Product#0;class#Product#0" />
+                <element signature="method#Product#1;class#Product#0" />
+                <element signature="method#removeByID#0;class#Product#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Goods/Creator.java" />
+        <option value="$PROJECT_DIR$/src/Goods/Сlothes.java" />
+        <option value="$PROJECT_DIR$/src/Goods/ClothesCreator.java" />
+        <option value="$PROJECT_DIR$/src/Goods/FootwearCreator.java" />
+        <option value="$PROJECT_DIR$/src/Goods/AccessorCreater.java" />
+        <option value="$PROJECT_DIR$/src/Goods/Footwear.java" />
+        <option value="$PROJECT_DIR$/src/Goods/Accessor.java" />
+        <option value="$PROJECT_DIR$/src/Goods/Clothes.java" />
+        <option value="$PROJECT_DIR$/src/Goods/Product.java" />
+        <option value="$PROJECT_DIR$/src/File/settings.out" />
+        <option value="$PROJECT_DIR$/src/Stock/Goods/Clothes.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Goods/Accessor.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Goods/Footwear.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Orders/Order.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Supplies/Supplie.java" />
+        <option value="$PROJECT_DIR$/src/File/File.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/console.sql" />
+        <option value="$PROJECT_DIR$/src/Connection/MultiThreadServer.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Goods/Product.java" />
+        <option value="$PROJECT_DIR$/src/Stock/Stock.java" />
+        <option value="$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="658" />
+    <option name="width" value="707" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Connection" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="File" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stock" type="462c0819:PsiDirectoryNode" />
+              <item name="Goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stock" type="462c0819:PsiDirectoryNode" />
+              <item name="Orders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ServerU" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Stock" type="462c0819:PsiDirectoryNode" />
+              <item name="Supplies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ServerU" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SearchEverywhereHistoryKey" value="println&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1545121484387" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ClientU" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="File" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Katerin\Универ\ПСП\КП\КП2\ServerU\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Connection.MultiThreadServer" />
+      <module name="ServerU" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Connection.MultiThreadServer" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da5bf9cc-a7ca-4051-8b36-c8ba4656f5ac" name="Default Changelist" comment="" />
+      <created>1542476645067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542476645067</updated>
+      <workItem from="1542476658927" duration="454000" />
+      <workItem from="1542521212417" duration="18419000" />
+      <workItem from="1542569551708" duration="1802000" />
+      <workItem from="1542638073492" duration="2536000" />
+      <workItem from="1542646112449" duration="7399000" />
+      <workItem from="1542656330538" duration="597000" />
+      <workItem from="1542657979981" duration="963000" />
+      <workItem from="1542709834495" duration="3735000" />
+      <workItem from="1542803608775" duration="4674000" />
+      <workItem from="1543056569378" duration="6433000" />
+      <workItem from="1543079417894" duration="11323000" />
+      <workItem from="1543139606693" duration="19457000" />
+      <workItem from="1543163480988" duration="5171000" />
+      <workItem from="1543241177500" duration="14615000" />
+      <workItem from="1543311580371" duration="6037000" />
+      <workItem from="1543568231405" duration="1802000" />
+      <workItem from="1543584910726" duration="7600000" />
+      <workItem from="1543660156879" duration="7394000" />
+      <workItem from="1543690014932" duration="8168000" />
+      <workItem from="1543742848536" duration="5866000" />
+      <workItem from="1543765242443" duration="2728000" />
+      <workItem from="1543776249039" duration="6539000" />
+      <workItem from="1543840015682" duration="9310000" />
+      <workItem from="1543856500789" duration="13357000" />
+      <workItem from="1543932615948" duration="14760000" />
+      <workItem from="1543956314444" duration="1386000" />
+      <workItem from="1543958829199" duration="38000" />
+      <workItem from="1543959748767" duration="1768000" />
+      <workItem from="1544019554160" duration="4091000" />
+      <workItem from="1544037861674" duration="1043000" />
+      <workItem from="1544087038434" duration="1891000" />
+      <workItem from="1544178430589" duration="4858000" />
+      <workItem from="1544188103184" duration="1546000" />
+      <workItem from="1544200069349" duration="9796000" />
+      <workItem from="1544252206780" duration="4673000" />
+      <workItem from="1544348402570" duration="14741000" />
+      <workItem from="1544453049561" duration="8065000" />
+      <workItem from="1544521467264" duration="65000" />
+      <workItem from="1544526513895" duration="5318000" />
+      <workItem from="1544552830555" duration="590000" />
+      <workItem from="1544557067576" duration="2562000" />
+      <workItem from="1544621652355" duration="11906000" />
+      <workItem from="1544645577875" duration="8365000" />
+      <workItem from="1544687486214" duration="3518000" />
+      <workItem from="1544710049092" duration="2513000" />
+      <workItem from="1544436699697" duration="10341000" />
+      <workItem from="1544455306624" duration="569000" />
+      <workItem from="1544457770156" duration="1477000" />
+      <workItem from="1544636377749" duration="7363000" />
+      <workItem from="1545121344855" duration="642000" />
+      <workItem from="1545804619989" duration="647000" />
+      <workItem from="1548235371738" duration="1165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="292076000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="2" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.6770045" weight="0.1980198" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3161876" side_tool="true" visible="true" weight="0.44554454" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="7" sideWeight="0.60590017" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6838124" weight="0.44554454" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21633889" />
+      <window_info anchor="right" id="Database" order="8" weight="0.19758673" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.24962178" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" weight="0.2888147" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" sideWeight="0.49924356" visible="true" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Database Console" order="8" sideWeight="0.5431165" weight="0.38360655" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" sideWeight="0.49924356" weight="0.13934426" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Database Console" order="7" sideWeight="0.5431165" weight="0.2" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.77912253" weight="0.35737705" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24962178" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.22087745" side_tool="true" weight="0.0" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="9" sideWeight="0.60590017" weight="0.3295082" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32980332" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22995462" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.17549168" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49848714" weight="0.3295082" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="SQL Generator" order="13" sideWeight="0.49924356" weight="0.13934426" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.4977307" visible="true" weight="0.5098361" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>173</line>
+          <properties />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>123</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java</url>
+          <line>124</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java</url>
+          <line>129</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java</url>
+          <line>137</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>247</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>201</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>322</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java</url>
+          <line>164</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>267</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>261</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>274</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>272</line>
+          <properties />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>270</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>269</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java</url>
+          <line>230</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java</url>
+          <line>231</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java</url>
+          <line>224</line>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java</url>
+          <line>228</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>289</line>
+          <properties />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>288</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>287</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Connection/MultiThreadServer.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Orders/Order.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Stock.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Stock.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Stock/Stock.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Stock/Stock.java</url>
+          <line>16</line>
+          <properties class="Stock.Stock" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Orders/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="method#getCustInfo#0;class#Order#0" />
+            <element signature="method#toString#0;class#Order#0" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="method#Order#1;class#Order#0" />
+            <element signature="method#add#0;class#Order#0" />
+            <element signature="method#remove#0;class#Order#0" />
+            <element signature="method#remove_prod#0;class#Order#0" />
+            <element signature="method#redact#0;class#Order#0" />
+            <element signature="method#ColculateOrderAmount#0;class#Order#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/MultiThreadServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <marker date="1548236264783" expanded="true" signature="3349:4260" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="219" column="33" selection-start-line="219" selection-start-column="33" selection-end-line="219" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/FootwearCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Accessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="method#Product#0;class#Product#0" />
+            <element signature="method#Product#1;class#Product#0" />
+            <element signature="method#removeByID#0;class#Product#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/testbase/table/orders" />
+    <entry file="file://$PROJECT_DIR$/script.sql" />
+    <entry file="file://$PROJECT_DIR$/src/Product.java" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/mysql/table/users" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock/table/users" />
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/AccessorCreater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock/table/costumer" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock/table/producttype" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/DataInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="568" selection-start-line="568" selection-end-line="568" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="843" selection-start-line="843" selection-end-line="843" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/ClothesCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock/table/goods" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/customers" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/supplies" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/users" />
+    <entry file="file://$PROJECT_DIR$/src/settings.out" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1556" column="9" lean-forward="true" selection-start-line="1556" selection-start-column="9" selection-end-line="1556" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Clothes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="150" column="13" lean-forward="true" selection-start-line="150" selection-start-column="13" selection-end-line="150" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/suppliers" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/orders" />
+    <entry file="das://6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/schema/stock2/table/goods" />
+    <entry file="file://$PROJECT_DIR$/settings.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">com</node>
+            <node x="" y="">images</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">Connection</node>
+            <node x="" y="">Data</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">File</node>
+            <node x="" y="">groovyjarjarantlr</node>
+            <node x="" y="">Stock</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.131393298059965" x="373.0" y="217.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Stock.Orders">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Stock.Orders</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">Stock.Orders.Order</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-245.0" y="-13.0" />
+          <SelectedNodes>
+            <node>Stock.Orders.Order</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/File/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="49" column="57" lean-forward="true" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Stock">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Stock</OriginalElement>
+          <nodes>
+            <node x="157.0" y="0.0">Stock.Stock</node>
+            <node x="0.0" y="79.0">Stock.Orders</node>
+            <node x="134.0" y="79.0">Stock.Supplies</node>
+            <node x="277.0" y="79.0">Stock.Goods</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Stock.Supplies" target="Stock.Stock">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="Stock.Goods" target="Stock.Stock">
+              <point x="0.0" y="-14.5" />
+              <point x="333.5" y="54.0" />
+              <point x="221.16666666666669" y="54.0" />
+              <point x="25.666666666666686" y="14.5" />
+            </edge>
+            <edge source="Stock.Orders" target="Stock.Stock">
+              <point x="0.0" y="-14.5" />
+              <point x="57.0" y="54.0" />
+              <point x="169.83333333333334" y="54.0" />
+              <point x="-25.666666666666657" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-89.0" y="26.0" />
+          <SelectedNodes>
+            <node>Stock.Orders</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Stock.Goods">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Stock.Goods</OriginalElement>
+          <nodes>
+            <node x="1226.0" y="1244.0">Connection.MultiThreadServer</node>
+            <node x="991.0" y="1244.0">Connection.MonoThreadClientHandler</node>
+            <node x="722.0" y="222.0">Stock.Supplies.Supplie</node>
+            <node x="436.0" y="1345.0">Stock.Goods.AccessorCreater</node>
+            <node x="0.0" y="1345.0">Stock.Goods.FootwearCreator</node>
+            <node x="1013.0" y="211.0">Stock.Orders.Order</node>
+            <node x="753.5" y="0.0">Stock.Stock</node>
+            <node x="361.0" y="961.0">Stock.Goods.Accessor</node>
+            <node x="218.0" y="1345.0">Stock.Goods.ClothesCreator</node>
+            <node x="218.0" y="1244.0">Stock.Goods.Creator</node>
+            <node x="361.0" y="354.0">Stock.Goods.Product</node>
+            <node x="722.0" y="939.0">Stock.Goods.Clothes</node>
+            <node x="679.0" y="1244.0">File.File</node>
+            <node x="0.0" y="928.0">Stock.Goods.Footwear</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="Stock.Goods.FootwearCreator" target="Stock.Goods.Creator">
+              <point x="0.0" y="-25.5" />
+              <point x="99.0" y="1320.0" />
+              <point x="251.0" y="1320.0" />
+              <point x="-66.0" y="25.5" />
+            </edge>
+            <edge source="Stock.Goods.Clothes" target="Stock.Goods.Product">
+              <point x="0.0" y="-124.5" />
+              <point x="892.5" y="903.0" />
+              <point x="645.1666666666667" y="903.0" />
+              <point x="113.66666666666674" y="190.5" />
+            </edge>
+            <edge source="Stock.Goods.ClothesCreator" target="Stock.Goods.Creator">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="25.5" />
+            </edge>
+            <edge source="Stock.Orders.Order" target="Stock.Stock">
+              <point x="0.0" y="-333.5" />
+              <point x="1142.0" y="186.0" />
+              <point x="926.8333333333333" y="186.0" />
+              <point x="69.33333333333326" y="80.5" />
+            </edge>
+            <edge source="Stock.Supplies.Supplie" target="Stock.Stock">
+              <point x="0.0" y="-322.5" />
+              <point x="0.0" y="80.5" />
+            </edge>
+            <edge source="Stock.Goods.Accessor" target="Stock.Goods.Product">
+              <point x="0.0" y="-102.5" />
+              <point x="0.0" y="190.5" />
+            </edge>
+            <edge source="Stock.Goods.AccessorCreater" target="Stock.Goods.Creator">
+              <point x="0.0" y="-25.5" />
+              <point x="535.0" y="1320.0" />
+              <point x="383.0" y="1320.0" />
+              <point x="66.0" y="25.5" />
+            </edge>
+            <edge source="Stock.Goods.Footwear" target="Stock.Goods.Product">
+              <point x="0.0" y="-135.5" />
+              <point x="170.5" y="903.0" />
+              <point x="417.8333333333333" y="903.0" />
+              <point x="-113.66666666666669" y="190.5" />
+            </edge>
+            <edge source="Stock.Goods.Product" target="Stock.Stock">
+              <point x="0.0" y="-190.5" />
+              <point x="531.5" y="186.0" />
+              <point x="788.1666666666666" y="186.0" />
+              <point x="-69.33333333333337" y="80.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="509.0" y="220.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Orders/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1785">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+          <folding>
+            <element signature="method#getCustInfo#0;class#Order#0" />
+            <element signature="method#toString#0;class#Order#0" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1016#1017#0" expanded="true" />
+            <element signature="method#Order#1;class#Order#0" />
+            <element signature="method#add#0;class#Order#0" />
+            <element signature="method#remove#0;class#Order#0" />
+            <element signature="method#remove_prod#0;class#Order#0" />
+            <element signature="method#redact#0;class#Order#0" />
+            <element signature="method#ColculateOrderAmount#0;class#Order#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/MultiThreadServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Creator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/FootwearCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Footwear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="65" column="13" selection-start-line="65" selection-start-column="13" selection-end-line="65" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Accessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="33" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Goods/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="method#Product#0;class#Product#0" />
+            <element signature="method#Product#1;class#Product#0" />
+            <element signature="method#removeByID#0;class#Product#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Supplies/Supplie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3094">
+          <caret line="219" column="33" selection-start-line="219" selection-start-column="33" selection-end-line="219" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-10.0.2!/java.scripting/com/sun/tools/script/shell/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="924" column="4" selection-start-line="924" selection-start-column="4" selection-end-line="924" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6fbb4152-3a08-4fb8-a977-7ed631c8ccf0/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Stock/Stock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connection/MonoThreadClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="93" column="27" selection-start-line="93" selection-start-column="27" selection-end-line="93" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#912#913#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <marker date="1548236264783" expanded="true" signature="3349:4260" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ServerU:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6135057" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ServerU</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.22-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
